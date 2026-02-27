@@ -1,6 +1,9 @@
 # Tips para tu interfaz gráfica
 
+
 primero te comparto cómo instalé Vite / NPM
+
+### Paso
 
 En la terminal pon: 
 
@@ -660,5 +663,25 @@ Dentro de `style.css` puedes modificar la interfaz a tu gusto, por ejemplo, si q
 }
 ```
 
-Como recomendación personal busca en tu navegador de preferencia "Color hex", escoge el color que mas te agrade, copias su codigo y lo pones en la parte donde lo estés buscando  
+Como recomendación personal busca en tu navegador de preferencia "Color hex", escoge el color que mas te agrade, copias su codigo y lo pones en la parte donde lo estés buscando 
+
+Si quieres ampliar cuadros, busca: 
+
+```css
+.card {
+  padding: 20px;
+}
+```
+
+y edita si quieres que se vean más grandes, por ejemplo:
+
+```css
+.card {
+  padding: 20px;
+}
+```
+
+>Si es más padding son cuadros más amplios
+
+
 
