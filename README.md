@@ -3,7 +3,7 @@
 
 primero te comparto cómo instalé Vite / NPM
 
-### Paso
+### Paso 1
 
 En la terminal pon: 
 
